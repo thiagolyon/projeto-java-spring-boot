@@ -1,0 +1,5 @@
+package com.lyon.userdept.entities;
+
+public class Department {
+
+}

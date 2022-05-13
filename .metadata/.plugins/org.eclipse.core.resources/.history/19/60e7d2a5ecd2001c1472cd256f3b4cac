@@ -1,0 +1,5 @@
+package com.lyon.userdept.repositories;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+
+}
